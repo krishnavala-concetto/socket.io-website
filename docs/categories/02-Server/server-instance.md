@@ -1,4 +1,4 @@
----
+------
 title: The Server instance
 sidebar_position: 3
 slug: /server-instance/
